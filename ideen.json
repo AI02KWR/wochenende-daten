@@ -1,0 +1,1041 @@
+{
+  "schemaVersion": 1,
+  "ideen": [
+    {
+      "vorbereitung": [],
+      "packliste": [
+        "Kinderwagen/Trage",
+        "Brotzeit & Trinken",
+        "Sonnen-/Regenschutz"
+      ],
+      "woraufAchten": [
+        "Fütterungszeiten vorher nachsehen",
+        "Mittagsschlaf des Kleinsten einplanen"
+      ],
+      "planB": "Bei Regen: Botanischer Garten nebenan hat Gewächshäuser.",
+      "saison": [],
+      "id": "start-zoo-augsburg",
+      "titel": "Augsburger Zoo",
+      "emoji": "🦁",
+      "kategorie": "Tiere",
+      "ort": {
+        "name": "Zoo Augsburg",
+        "link": "https://www.zoo-augsburg.de"
+      },
+      "drinnenDraussen": "draussen",
+      "dauerVorOrt": "halb",
+      "anfahrtMinutenAbMering": 25,
+      "kosten": "mehr",
+      "eignung": {
+        "kind1": {
+          "passt": "gut",
+          "text": "Tiere schauen aus dem Kinderwagen"
+        },
+        "kind2": {
+          "passt": "gut",
+          "text": "Streichelzoo, Spielplatz"
+        },
+        "kind3": {
+          "passt": "gut",
+          "text": "Infotafeln lesen, Fütterungen anschauen"
+        }
+      },
+      "status": "aktiv",
+      "erstellt": "2026-10-31T21:12:14.592Z",
+      "geaendert": "2026-10-31T21:12:14.592Z"
+    },
+    {
+      "vorbereitung": [
+        "Pflanzen-Bingo-Karte malen"
+      ],
+      "packliste": [
+        "Brotzeit & Trinken"
+      ],
+      "woraufAchten": [],
+      "planB": "Gewächshäuser sind auch bei Regen schön.",
+      "saison": [],
+      "id": "start-botanischer-garten",
+      "titel": "Botanischer Garten Augsburg",
+      "emoji": "🌺",
+      "kategorie": "Natur",
+      "ort": {
+        "name": "Botanischer Garten Augsburg"
+      },
+      "drinnenDraussen": "beides",
+      "dauerVorOrt": "kurz",
+      "anfahrtMinutenAbMering": 25,
+      "kosten": "wenig",
+      "eignung": {
+        "kind1": {
+          "passt": "gut",
+          "text": "Viel zu sehen, gut mit Kinderwagen"
+        },
+        "kind2": {
+          "passt": "gut",
+          "text": "Fische, Schmetterlinge suchen"
+        },
+        "kind3": {
+          "passt": "geht",
+          "text": "Mit Pflanzen-Bingo spannender"
+        }
+      },
+      "status": "aktiv",
+      "erstellt": "2026-10-31T21:12:14.592Z",
+      "geaendert": "2026-10-31T21:12:14.592Z"
+    },
+    {
+      "vorbereitung": [
+        "Karten früh reservieren",
+        "Babysitter für den Kleinsten fragen"
+      ],
+      "packliste": [],
+      "woraufAchten": [
+        "Altersempfehlung des Stücks prüfen"
+      ],
+      "planB": "Museum „Die Kiste“ im selben Haus.",
+      "saison": [],
+      "id": "start-puppenkiste",
+      "titel": "Augsburger Puppenkiste",
+      "emoji": "🎭",
+      "kategorie": "Kultur",
+      "ort": {
+        "name": "Augsburger Puppenkiste",
+        "link": "https://www.augsburger-puppenkiste.de"
+      },
+      "drinnenDraussen": "drinnen",
+      "dauerVorOrt": "kurz",
+      "anfahrtMinutenAbMering": 25,
+      "kosten": "wenig",
+      "eignung": {
+        "kind1": {
+          "passt": "nicht",
+          "text": "Zu lang stillsitzen"
+        },
+        "kind2": {
+          "passt": "geht",
+          "text": "Kinderstücke ab ca. 3–4 Jahren"
+        },
+        "kind3": {
+          "passt": "gut",
+          "text": "Klassiker, auch das Museum"
+        }
+      },
+      "status": "aktiv",
+      "erstellt": "2026-10-31T21:12:14.592Z",
+      "geaendert": "2026-10-31T21:12:14.592Z"
+    },
+    {
+      "vorbereitung": [
+        "Öffnungszeiten prüfen"
+      ],
+      "packliste": [],
+      "woraufAchten": [],
+      "planB": "Ist selbst schon ein Regenprogramm.",
+      "saison": [],
+      "id": "start-naturmuseum",
+      "titel": "Naturmuseum Augsburg",
+      "emoji": "🦕",
+      "kategorie": "Kultur",
+      "ort": {
+        "name": "Naturmuseum Augsburg"
+      },
+      "drinnenDraussen": "drinnen",
+      "dauerVorOrt": "kurz",
+      "anfahrtMinutenAbMering": 25,
+      "kosten": "wenig",
+      "eignung": {
+        "kind1": {
+          "passt": "geht",
+          "text": "Kurz, dann Trage"
+        },
+        "kind2": {
+          "passt": "gut",
+          "text": "Tiere und Dinos anschauen"
+        },
+        "kind3": {
+          "passt": "gut",
+          "text": "Fragen-Rallye machen"
+        }
+      },
+      "status": "aktiv",
+      "erstellt": "2026-10-31T21:12:14.592Z",
+      "geaendert": "2026-10-31T21:12:14.592Z"
+    },
+    {
+      "vorbereitung": [],
+      "packliste": [],
+      "woraufAchten": [],
+      "planB": "Danach Eis oder Kakao in der Altstadt.",
+      "saison": [],
+      "id": "start-fuggerei",
+      "titel": "Fuggerei besuchen",
+      "emoji": "🏘️",
+      "kategorie": "Kultur",
+      "ort": {
+        "name": "Fuggerei Augsburg"
+      },
+      "drinnenDraussen": "beides",
+      "dauerVorOrt": "kurz",
+      "anfahrtMinutenAbMering": 25,
+      "kosten": "wenig",
+      "eignung": {
+        "kind1": {
+          "passt": "geht",
+          "text": "Im Kinderwagen dabei"
+        },
+        "kind2": {
+          "passt": "geht",
+          "text": "Klingelzüge entdecken"
+        },
+        "kind3": {
+          "passt": "gut",
+          "text": "Älteste Sozialsiedlung der Welt – Geschichte erzählen"
+        }
+      },
+      "status": "aktiv",
+      "erstellt": "2026-10-31T21:12:14.592Z",
+      "geaendert": "2026-10-31T21:12:14.592Z"
+    },
+    {
+      "vorbereitung": [],
+      "packliste": [
+        "Wechselkleidung",
+        "Windeln & Feuchttücher",
+        "Brotzeit & Trinken",
+        "Matschhose"
+      ],
+      "woraufAchten": [
+        "Am Wasser immer an der Hand"
+      ],
+      "planB": "Bei Regen: Matschhosen an und Pfützenspringen.",
+      "saison": [],
+      "id": "start-kuhsee",
+      "titel": "Spaziergang am Kuhsee und Lech",
+      "emoji": "🦆",
+      "kategorie": "Natur",
+      "ort": {
+        "name": "Kuhsee, Augsburg-Hochzoll"
+      },
+      "drinnenDraussen": "draussen",
+      "dauerVorOrt": "halb",
+      "anfahrtMinutenAbMering": 15,
+      "kosten": "gratis",
+      "eignung": {
+        "kind1": {
+          "passt": "gut",
+          "text": "Kinderwagen/Trage, Enten schauen"
+        },
+        "kind2": {
+          "passt": "gut",
+          "text": "Steine werfen, Stöcke sammeln"
+        },
+        "kind3": {
+          "passt": "gut",
+          "text": "Mit Rad oder Roller"
+        }
+      },
+      "status": "aktiv",
+      "erstellt": "2026-10-31T21:12:14.592Z",
+      "geaendert": "2026-10-31T21:12:14.592Z"
+    },
+    {
+      "vorbereitung": [],
+      "packliste": [
+        "Wechselkleidung",
+        "Windeln & Feuchttücher",
+        "Brotzeit & Trinken",
+        "Matschhose"
+      ],
+      "woraufAchten": [],
+      "planB": "Kürzere Runde und danach heißer Kakao.",
+      "saison": [],
+      "id": "start-siebentischwald",
+      "titel": "Waldtag im Siebentischwald",
+      "emoji": "🌲",
+      "kategorie": "Natur",
+      "ort": {
+        "name": "Siebentischwald, Augsburg"
+      },
+      "drinnenDraussen": "draussen",
+      "dauerVorOrt": "halb",
+      "anfahrtMinutenAbMering": 20,
+      "kosten": "gratis",
+      "eignung": {
+        "kind1": {
+          "passt": "gut",
+          "text": "Trage, Blätter fühlen"
+        },
+        "kind2": {
+          "passt": "gut",
+          "text": "Stöcke, Zapfen, Käfer suchen"
+        },
+        "kind3": {
+          "passt": "gut",
+          "text": "Hütte bauen, Karte lesen"
+        }
+      },
+      "status": "aktiv",
+      "erstellt": "2026-10-31T21:12:14.592Z",
+      "geaendert": "2026-10-31T21:12:14.592Z"
+    },
+    {
+      "vorbereitung": [
+        "Kleinen Schatz besorgen (z. B. Schokotaler)",
+        "Schatzkarte malen"
+      ],
+      "packliste": [
+        "Schatz",
+        "Kreide oder Bändchen für Markierungen",
+        "Brotzeit"
+      ],
+      "woraufAchten": [],
+      "planB": "Schatzsuche drinnen in der Wohnung.",
+      "saison": [],
+      "id": "start-schatzsuche",
+      "titel": "Schatzsuche im Wald",
+      "emoji": "🗺️",
+      "kategorie": "Bewegung",
+      "ort": {
+        "name": "Wald rund um Mering"
+      },
+      "drinnenDraussen": "draussen",
+      "dauerVorOrt": "kurz",
+      "anfahrtMinutenAbMering": 5,
+      "kosten": "gratis",
+      "eignung": {
+        "kind1": {
+          "passt": "geht",
+          "text": "Ist dabei in der Trage"
+        },
+        "kind2": {
+          "passt": "gut",
+          "text": "Folgt Pfeilen aus Stöcken"
+        },
+        "kind3": {
+          "passt": "gut",
+          "text": "Darf die Schatzkarte zeichnen und Rätsel lösen"
+        }
+      },
+      "status": "aktiv",
+      "erstellt": "2026-10-31T21:12:14.592Z",
+      "geaendert": "2026-10-31T21:12:14.592Z"
+    },
+    {
+      "vorbereitung": [
+        "Bastelset oder Käseschachteln, Transparentpapier, Laternenstab besorgen"
+      ],
+      "packliste": [
+        "Kleber, Schere, Malerkrepp",
+        "Unterlage"
+      ],
+      "woraufAchten": [
+        "LED-Stab statt Kerze für die Kleinen"
+      ],
+      "planB": "Abends mit der Laterne eine Runde ums Haus.",
+      "saison": [
+        10,
+        11
+      ],
+      "id": "start-laternen-basteln",
+      "titel": "Laternen basteln",
+      "emoji": "🏮",
+      "kategorie": "Saison & Feste",
+      "ort": {
+        "name": "Zuhause"
+      },
+      "drinnenDraussen": "drinnen",
+      "dauerVorOrt": "kurz",
+      "anfahrtMinutenAbMering": 0,
+      "kosten": "wenig",
+      "eignung": {
+        "kind1": {
+          "passt": "geht",
+          "text": "Darf kleben und kleckern"
+        },
+        "kind2": {
+          "passt": "gut",
+          "text": "Transparentpapier reißen und kleben"
+        },
+        "kind3": {
+          "passt": "gut",
+          "text": "Eigene Laterne mit Motiv"
+        }
+      },
+      "status": "aktiv",
+      "erstellt": "2026-10-31T21:12:14.592Z",
+      "geaendert": "2026-10-31T21:12:14.592Z"
+    },
+    {
+      "vorbereitung": [
+        "Termin im Gemeindeblatt / bei der Kita nachsehen",
+        "Laternenlieder üben"
+      ],
+      "packliste": [
+        "Laterne mit LED-Stab",
+        "Warme Kleidung",
+        "Reflektoren"
+      ],
+      "woraufAchten": [],
+      "planB": "Eigener kleiner Umzug durch die Nachbarschaft.",
+      "saison": [
+        11
+      ],
+      "id": "start-martinsumzug",
+      "titel": "Martinsumzug mitlaufen",
+      "emoji": "🐴",
+      "kategorie": "Saison & Feste",
+      "ort": {
+        "name": "Mering (Kita, Pfarrei)"
+      },
+      "drinnenDraussen": "draussen",
+      "dauerVorOrt": "kurz",
+      "anfahrtMinutenAbMering": 5,
+      "kosten": "gratis",
+      "eignung": {
+        "kind1": {
+          "passt": "gut",
+          "text": "Lichter schauen"
+        },
+        "kind2": {
+          "passt": "gut",
+          "text": "Eigene Laterne tragen"
+        },
+        "kind3": {
+          "passt": "gut",
+          "text": "Lieder mitsingen"
+        }
+      },
+      "status": "aktiv",
+      "erstellt": "2026-10-31T21:12:14.592Z",
+      "geaendert": "2026-10-31T21:12:14.592Z"
+    },
+    {
+      "vorbereitung": [
+        "Kürbis am Hofladen kaufen"
+      ],
+      "packliste": [
+        "Löffel, Schnitzset, Zeitung als Unterlage"
+      ],
+      "woraufAchten": [
+        "Messer nur für das große Kind und mit Aufsicht"
+      ],
+      "planB": "Kürbis nur bemalen statt schnitzen.",
+      "saison": [
+        9,
+        10,
+        11
+      ],
+      "id": "start-kuerbis",
+      "titel": "Kürbis schnitzen & Kürbissuppe",
+      "emoji": "🎃",
+      "kategorie": "Saison & Feste",
+      "ort": {
+        "name": "Zuhause"
+      },
+      "drinnenDraussen": "drinnen",
+      "dauerVorOrt": "kurz",
+      "anfahrtMinutenAbMering": 0,
+      "kosten": "wenig",
+      "eignung": {
+        "kind1": {
+          "passt": "geht",
+          "text": "Kerne fühlen"
+        },
+        "kind2": {
+          "passt": "gut",
+          "text": "Kerne auskratzen, Gesicht malen"
+        },
+        "kind3": {
+          "passt": "gut",
+          "text": "Mit Hilfe selbst schnitzen"
+        }
+      },
+      "status": "aktiv",
+      "erstellt": "2026-10-31T21:12:14.592Z",
+      "geaendert": "2026-10-31T21:12:14.592Z"
+    },
+    {
+      "vorbereitung": [
+        "Zutaten einkaufen",
+        "Mürbteig am Vorabend machen"
+      ],
+      "packliste": [],
+      "woraufAchten": [
+        "Heißer Backofen"
+      ],
+      "planB": "Nur Teig machen, backen am nächsten Tag.",
+      "saison": [
+        11,
+        12
+      ],
+      "id": "start-plaetzchen",
+      "titel": "Plätzchen backen",
+      "emoji": "🍪",
+      "kategorie": "Kochen",
+      "ort": {
+        "name": "Zuhause"
+      },
+      "drinnenDraussen": "drinnen",
+      "dauerVorOrt": "kurz",
+      "anfahrtMinutenAbMering": 0,
+      "kosten": "wenig",
+      "eignung": {
+        "kind1": {
+          "passt": "geht",
+          "text": "Darf Teig kneten"
+        },
+        "kind2": {
+          "passt": "gut",
+          "text": "Ausstechen und verzieren"
+        },
+        "kind3": {
+          "passt": "gut",
+          "text": "Rezept selbst lesen und abwiegen"
+        }
+      },
+      "status": "aktiv",
+      "erstellt": "2026-10-31T21:12:14.592Z",
+      "geaendert": "2026-10-31T21:12:14.592Z"
+    },
+    {
+      "vorbereitung": [
+        "Hefeteig 1–2 Std. vorher"
+      ],
+      "packliste": [],
+      "woraufAchten": [],
+      "planB": "Fertigteig nehmen.",
+      "saison": [],
+      "id": "start-pizza",
+      "titel": "Pizza selbst belegen",
+      "emoji": "🍕",
+      "kategorie": "Kochen",
+      "ort": {
+        "name": "Zuhause"
+      },
+      "drinnenDraussen": "drinnen",
+      "dauerVorOrt": "kurz",
+      "anfahrtMinutenAbMering": 0,
+      "kosten": "wenig",
+      "eignung": {
+        "kind1": {
+          "passt": "geht",
+          "text": "Darf Käse streuen"
+        },
+        "kind2": {
+          "passt": "gut",
+          "text": "Eigene Mini-Pizza"
+        },
+        "kind3": {
+          "passt": "gut",
+          "text": "Teig selber machen"
+        }
+      },
+      "status": "aktiv",
+      "erstellt": "2026-10-31T21:12:14.592Z",
+      "geaendert": "2026-10-31T21:12:14.592Z"
+    },
+    {
+      "vorbereitung": [],
+      "packliste": [
+        "Decken, Kissen, Wäscheklammern, Taschenlampe"
+      ],
+      "woraufAchten": [],
+      "planB": "Höhle unter dem Esstisch.",
+      "saison": [],
+      "id": "start-hoehle",
+      "titel": "Höhle im Wohnzimmer bauen",
+      "emoji": "🏕️",
+      "kategorie": "Kreatives",
+      "ort": {
+        "name": "Zuhause"
+      },
+      "drinnenDraussen": "drinnen",
+      "dauerVorOrt": "kurz",
+      "anfahrtMinutenAbMering": 0,
+      "kosten": "gratis",
+      "eignung": {
+        "kind1": {
+          "passt": "gut",
+          "text": "Rein- und rauskrabbeln"
+        },
+        "kind2": {
+          "passt": "gut",
+          "text": "Kissen schleppen"
+        },
+        "kind3": {
+          "passt": "gut",
+          "text": "Baut die Konstruktion"
+        }
+      },
+      "status": "aktiv",
+      "erstellt": "2026-10-31T21:12:14.592Z",
+      "geaendert": "2026-10-31T21:12:14.592Z"
+    },
+    {
+      "vorbereitung": [
+        "Kokosfett, Körner, Förmchen besorgen"
+      ],
+      "packliste": [],
+      "woraufAchten": [],
+      "planB": "Futter aufhängen und Vögel vom Fenster aus beobachten.",
+      "saison": [
+        11,
+        12,
+        1,
+        2
+      ],
+      "id": "start-vogelfutter",
+      "titel": "Vogelfutter selbst machen",
+      "emoji": "🐦",
+      "kategorie": "Natur",
+      "ort": {
+        "name": "Zuhause & Garten"
+      },
+      "drinnenDraussen": "beides",
+      "dauerVorOrt": "kurz",
+      "anfahrtMinutenAbMering": 0,
+      "kosten": "wenig",
+      "eignung": {
+        "kind1": {
+          "passt": "geht",
+          "text": "Zuschauen, Körner fühlen"
+        },
+        "kind2": {
+          "passt": "gut",
+          "text": "Körner rühren"
+        },
+        "kind3": {
+          "passt": "gut",
+          "text": "Vögel bestimmen"
+        }
+      },
+      "status": "aktiv",
+      "erstellt": "2026-10-31T21:12:14.592Z",
+      "geaendert": "2026-10-31T21:12:14.592Z"
+    },
+    {
+      "vorbereitung": [],
+      "packliste": [
+        "Drachen",
+        "Mütze",
+        "Tee in der Thermoskanne"
+      ],
+      "woraufAchten": [
+        "Abstand zu Stromleitungen",
+        "Wind vorher prüfen"
+      ],
+      "planB": "Ohne Wind: Papierflieger-Wettbewerb.",
+      "saison": [
+        9,
+        10
+      ],
+      "id": "start-drachen",
+      "titel": "Drachen steigen lassen",
+      "emoji": "🪁",
+      "kategorie": "Bewegung",
+      "ort": {
+        "name": "Felder rund um Mering"
+      },
+      "drinnenDraussen": "draussen",
+      "dauerVorOrt": "kurz",
+      "anfahrtMinutenAbMering": 5,
+      "kosten": "gratis",
+      "eignung": {
+        "kind1": {
+          "passt": "geht",
+          "text": "Schaut zu"
+        },
+        "kind2": {
+          "passt": "gut",
+          "text": "Rennt mit"
+        },
+        "kind3": {
+          "passt": "gut",
+          "text": "Hält die Schnur selbst"
+        }
+      },
+      "status": "aktiv",
+      "erstellt": "2026-10-31T21:12:14.592Z",
+      "geaendert": "2026-10-31T21:12:14.592Z"
+    },
+    {
+      "vorbereitung": [],
+      "packliste": [
+        "Matschhosen, Gummistiefel",
+        "Handtücher für danach"
+      ],
+      "woraufAchten": [],
+      "planB": "Warme Badewanne mit Schiffchen.",
+      "saison": [],
+      "id": "start-pfuetzen",
+      "titel": "Pfützenspringen & Matschküche",
+      "emoji": "💦",
+      "kategorie": "Bewegung",
+      "ort": {
+        "name": "Draußen in Mering"
+      },
+      "drinnenDraussen": "draussen",
+      "dauerVorOrt": "kurz",
+      "anfahrtMinutenAbMering": 0,
+      "kosten": "gratis",
+      "eignung": {
+        "kind1": {
+          "passt": "gut",
+          "text": "Platschen in Matschhose"
+        },
+        "kind2": {
+          "passt": "gut",
+          "text": "Größte Pfütze finden"
+        },
+        "kind3": {
+          "passt": "geht",
+          "text": "Staudamm bauen macht es spannend"
+        }
+      },
+      "status": "aktiv",
+      "erstellt": "2026-10-31T21:12:14.592Z",
+      "geaendert": "2026-10-31T21:12:14.592Z"
+    },
+    {
+      "vorbereitung": [
+        "Öffnungszeiten am Samstag prüfen"
+      ],
+      "packliste": [],
+      "woraufAchten": [],
+      "planB": "Vorlesestunde zuhause mit Kakao.",
+      "saison": [],
+      "id": "start-buecherei",
+      "titel": "Bücherei besuchen",
+      "emoji": "📚",
+      "kategorie": "Kultur",
+      "ort": {
+        "name": "Bücherei in Mering"
+      },
+      "drinnenDraussen": "drinnen",
+      "dauerVorOrt": "kurz",
+      "anfahrtMinutenAbMering": 5,
+      "kosten": "gratis",
+      "eignung": {
+        "kind1": {
+          "passt": "gut",
+          "text": "Fühlbücher"
+        },
+        "kind2": {
+          "passt": "gut",
+          "text": "Bilderbücher aussuchen"
+        },
+        "kind3": {
+          "passt": "gut",
+          "text": "Eigenen Ausweis machen"
+        }
+      },
+      "status": "aktiv",
+      "erstellt": "2026-10-31T21:12:14.592Z",
+      "geaendert": "2026-10-31T21:12:14.592Z"
+    },
+    {
+      "vorbereitung": [],
+      "packliste": [
+        "Helme",
+        "Flickzeug",
+        "Brotzeit & Trinken"
+      ],
+      "woraufAchten": [],
+      "planB": "Kurze Runde nur zum nächsten Spielplatz.",
+      "saison": [],
+      "id": "start-radtour",
+      "titel": "Radtour mit Spielplatz-Stopp",
+      "emoji": "🚲",
+      "kategorie": "Bewegung",
+      "ort": {
+        "name": "Rund um Mering"
+      },
+      "drinnenDraussen": "draussen",
+      "dauerVorOrt": "halb",
+      "anfahrtMinutenAbMering": 0,
+      "kosten": "gratis",
+      "eignung": {
+        "kind1": {
+          "passt": "gut",
+          "text": "Im Anhänger/Kindersitz"
+        },
+        "kind2": {
+          "passt": "gut",
+          "text": "Laufrad kurze Strecken"
+        },
+        "kind3": {
+          "passt": "gut",
+          "text": "Fährt selbst, darf Route planen"
+        }
+      },
+      "status": "aktiv",
+      "erstellt": "2026-10-31T21:12:14.592Z",
+      "geaendert": "2026-10-31T21:12:14.592Z"
+    },
+    {
+      "vorbereitung": [],
+      "packliste": [
+        "Wechselkleidung",
+        "Windeln & Feuchttücher",
+        "Brotzeit & Trinken",
+        "Matschhose"
+      ],
+      "woraufAchten": [
+        "Am Wasser immer an der Hand",
+        "Schiffsfahrplan prüfen (Saison)"
+      ],
+      "planB": "Bei schlechtem Wetter kurzer Uferspaziergang und Café.",
+      "saison": [],
+      "id": "start-ammersee",
+      "titel": "Ausflug an den Ammersee",
+      "emoji": "⛵",
+      "kategorie": "Ausflug",
+      "ort": {
+        "name": "Ammersee"
+      },
+      "drinnenDraussen": "draussen",
+      "dauerVorOrt": "ganz",
+      "anfahrtMinutenAbMering": 45,
+      "kosten": "wenig",
+      "kostenNotiz": "Dampferfahrt kostet extra",
+      "eignung": {
+        "kind1": {
+          "passt": "gut",
+          "text": "Steine am Ufer, Trage"
+        },
+        "kind2": {
+          "passt": "gut",
+          "text": "Schwäne beobachten, Steine werfen"
+        },
+        "kind3": {
+          "passt": "gut",
+          "text": "Schifffahrt"
+        }
+      },
+      "status": "aktiv",
+      "erstellt": "2026-10-31T21:12:14.592Z",
+      "geaendert": "2026-10-31T21:12:14.592Z"
+    },
+    {
+      "vorbereitung": [
+        "Tickets online kaufen",
+        "Saisonzeiten prüfen"
+      ],
+      "packliste": [
+        "Kinderwagen",
+        "Brotzeit & Trinken",
+        "Wechselkleidung (Wasserspielplatz)"
+      ],
+      "woraufAchten": [
+        "Größenbeschränkungen bei Fahrgeschäften"
+      ],
+      "planB": "Bei Regen lieber verschieben.",
+      "saison": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "id": "start-legoland",
+      "titel": "Legoland Deutschland",
+      "emoji": "🧱",
+      "kategorie": "Ausflug",
+      "ort": {
+        "name": "Legoland Günzburg",
+        "link": "https://www.legoland.de"
+      },
+      "drinnenDraussen": "draussen",
+      "dauerVorOrt": "ganz",
+      "anfahrtMinutenAbMering": 55,
+      "kosten": "mehr",
+      "kostenNotiz": "Online-Tickets meist günstiger",
+      "eignung": {
+        "kind1": {
+          "passt": "geht",
+          "text": "Viel Kinderwagen, wenig Fahrgeschäfte"
+        },
+        "kind2": {
+          "passt": "gut",
+          "text": "Duplo-Land"
+        },
+        "kind3": {
+          "passt": "gut",
+          "text": "Viele Fahrgeschäfte"
+        }
+      },
+      "status": "aktiv",
+      "erstellt": "2026-10-31T21:12:14.592Z",
+      "geaendert": "2026-10-31T21:12:14.592Z"
+    },
+    {
+      "vorbereitung": [
+        "Mit dem Zug fahren – Parken ist schwierig"
+      ],
+      "packliste": [
+        "Warme Kleidung",
+        "Trage statt Kinderwagen im Gedränge"
+      ],
+      "woraufAchten": [],
+      "planB": "Kleiner Weihnachtsmarkt in Mering oder Umgebung.",
+      "saison": [
+        11,
+        12
+      ],
+      "id": "start-christkindlesmarkt",
+      "titel": "Augsburger Christkindlesmarkt",
+      "emoji": "🎄",
+      "kategorie": "Saison & Feste",
+      "ort": {
+        "name": "Rathausplatz Augsburg"
+      },
+      "drinnenDraussen": "draussen",
+      "dauerVorOrt": "kurz",
+      "anfahrtMinutenAbMering": 25,
+      "kosten": "wenig",
+      "eignung": {
+        "kind1": {
+          "passt": "gut",
+          "text": "Lichter schauen"
+        },
+        "kind2": {
+          "passt": "gut",
+          "text": "Karussell, Kinderpunsch"
+        },
+        "kind3": {
+          "passt": "gut",
+          "text": "Engelesspiel am Rathaus"
+        }
+      },
+      "status": "aktiv",
+      "erstellt": "2026-10-31T21:12:14.592Z",
+      "geaendert": "2026-10-31T21:12:14.592Z"
+    },
+    {
+      "vorbereitung": [],
+      "packliste": [
+        "Schalen",
+        "Sonnenhut",
+        "Feuchttücher"
+      ],
+      "woraufAchten": [],
+      "planB": "Erdbeeren kaufen und Marmelade kochen.",
+      "saison": [
+        5,
+        6,
+        7
+      ],
+      "id": "start-erdbeeren",
+      "titel": "Erdbeeren selbst pflücken",
+      "emoji": "🍓",
+      "kategorie": "Natur",
+      "ort": {
+        "name": "Erdbeerfeld in der Umgebung"
+      },
+      "drinnenDraussen": "draussen",
+      "dauerVorOrt": "kurz",
+      "anfahrtMinutenAbMering": 15,
+      "kosten": "wenig",
+      "eignung": {
+        "kind1": {
+          "passt": "gut",
+          "text": "Erdbeeren naschen"
+        },
+        "kind2": {
+          "passt": "gut",
+          "text": "Eigenes Körbchen"
+        },
+        "kind3": {
+          "passt": "gut",
+          "text": "Wer pflückt am meisten?"
+        }
+      },
+      "status": "aktiv",
+      "erstellt": "2026-10-31T21:12:14.592Z",
+      "geaendert": "2026-10-31T21:12:14.592Z"
+    },
+    {
+      "vorbereitung": [],
+      "packliste": [],
+      "woraufAchten": [],
+      "planB": "Am Bahnhof Züge beobachten.",
+      "saison": [],
+      "id": "start-zug",
+      "titel": "Zugfahrt nach Augsburg und zurück",
+      "emoji": "🚂",
+      "kategorie": "Ausflug",
+      "ort": {
+        "name": "Bahnhof Mering"
+      },
+      "drinnenDraussen": "beides",
+      "dauerVorOrt": "kurz",
+      "anfahrtMinutenAbMering": 0,
+      "kosten": "wenig",
+      "eignung": {
+        "kind1": {
+          "passt": "gut",
+          "text": "Aus dem Fenster schauen"
+        },
+        "kind2": {
+          "passt": "gut",
+          "text": "Zugfahren ist schon das Abenteuer"
+        },
+        "kind3": {
+          "passt": "geht",
+          "text": "Darf Fahrkarte und Gleis heraussuchen"
+        }
+      },
+      "status": "aktiv",
+      "erstellt": "2026-10-31T21:12:14.592Z",
+      "geaendert": "2026-10-31T21:12:14.592Z"
+    },
+    {
+      "vorbereitung": [],
+      "packliste": [
+        "Schlitten",
+        "Schneeanzüge",
+        "Tee"
+      ],
+      "woraufAchten": [
+        "Nur bei ausreichend Schnee",
+        "Nicht zu lange – Kleinste frieren schnell"
+      ],
+      "planB": "Schneemann bauen im Garten.",
+      "saison": [
+        12,
+        1,
+        2
+      ],
+      "id": "start-schlitten",
+      "titel": "Schlittenfahren",
+      "emoji": "🛷",
+      "kategorie": "Bewegung",
+      "ort": {
+        "name": "Rodelhügel in der Nähe"
+      },
+      "drinnenDraussen": "draussen",
+      "dauerVorOrt": "kurz",
+      "anfahrtMinutenAbMering": 10,
+      "kosten": "gratis",
+      "eignung": {
+        "kind1": {
+          "passt": "geht",
+          "text": "Auf dem Schoß, kurz"
+        },
+        "kind2": {
+          "passt": "gut",
+          "text": "Kleiner Hang"
+        },
+        "kind3": {
+          "passt": "gut",
+          "text": "Selbst fahren"
+        }
+      },
+      "status": "aktiv",
+      "erstellt": "2026-10-31T21:12:14.592Z",
+      "geaendert": "2026-10-31T21:12:14.592Z"
+    }
+  ]
+}
