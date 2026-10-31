@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "heimatort": "Mering",
+  "kinder": [
+    {
+      "id": "kind1",
+      "name": "1 J."
+    },
+    {
+      "id": "kind2",
+      "name": "3 J."
+    },
+    {
+      "id": "kind3",
+      "name": "8 J."
+    }
+  ]
+}
